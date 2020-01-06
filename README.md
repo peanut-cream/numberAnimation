@@ -1,5 +1,6 @@
 先上效果图：
 ![GIF 2020-1-6 15-58-38.gif](https://upload-images.jianshu.io/upload_images/11146777-1d802e0a8d1be1d2.gif?imageMogr2/auto-orient/strip)
+
 一、首先安装TypeScript，在node上执行npm install -g typescript命令。
 二、ts文件需要我们每次编写完成以后都要执行一下命令去编译它，才会生成一个js文件
         因此我们执行tsc -init命令，在项目中生成一个json文件，并对json文件进行修改。
